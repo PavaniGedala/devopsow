@@ -1,3 +1,3 @@
 function main(params) {
-return { "messgae": 'Hello this is '+name}
+return { "message": 'Hello this is '+name}
 }
